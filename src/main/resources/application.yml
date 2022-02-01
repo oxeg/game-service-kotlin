@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: gameServiceKotlin
+netty:
+  default:
+    allocator:
+      max-order: 3
